@@ -1,2 +1,2 @@
-# BGYYYKit
-封装YYKit 剔除webp
+# XCDBManager
+对部分业务代码进行组件化
