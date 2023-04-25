@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: A short description of XCDBManager. 回头写.
                        DESC
 
-  s.homepage         = 'https://github.com/xinchuang/XCDBManager'
+  s.homepage         = 'https://github.com/jinsulei/XCDBManager'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'xinchuang' => 'xinchuang@countrygarden.com.cn' }
-  s.source           = { :git => 'https://github.com/xinchuang/XCDBManager.git', :tag => s.version.to_s }
+  s.author           = { 'jinsulei' => '573653911@qq.com' }
+  s.source           = { :git => 'https://github.com/jinsulei/XCDBManager.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
