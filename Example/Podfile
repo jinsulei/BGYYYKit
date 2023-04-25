@@ -1,0 +1,15 @@
+source 'https://git.bgy.com.cn/pt00176/specs-list-bgy.git'
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'XCDBManager_Example' do
+  pod 'XCDBManager', :path => '../'
+
+  target 'XCDBManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
